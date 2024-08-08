@@ -23,7 +23,7 @@ namespace moon
             {
                 MessageBox.Show("BBB");
                 MessageBox.Show("XXX");
-                MessageBox.Show("3.0");
+                MessageBox.Show("master");
             }
         }
     }
