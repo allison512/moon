@@ -22,6 +22,8 @@ namespace moon
             if (this.Visible)
             {
                 MessageBox.Show("BBB");
+                MessageBox.Show("XXX");
+                MessageBox.Show("3.0");
             }
         }
     }
