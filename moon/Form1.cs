@@ -24,6 +24,8 @@ namespace moon
                 MessageBox.Show("BBB");
                 MessageBox.Show("XXX");
                 MessageBox.Show("master");
+                MessageBox.Show("here is master");
+
             }
         }
     }
